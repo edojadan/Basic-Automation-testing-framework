@@ -64,8 +64,8 @@ pytest --html=report.html --self-contained-html
 ## How to Run the Tests
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/edojadan/Basic-Automation-testing-framework.git
+   cd Basic-Automation-testing-framework
    ```
 
 2. **Set Up Virtual Environment** (Optional but recommended):
